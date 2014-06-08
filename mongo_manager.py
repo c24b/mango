@@ -112,5 +112,5 @@ class TaskManager():
 		if self.find():
 			self.collection.remove({"project":self.project})
 		else:
-			print "No project \"%s\" found. Exiting"
+			print "No project \"%s\" found. Exiting" %self.project
 		return
