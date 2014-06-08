@@ -1,4 +1,4 @@
 mango
 =====
 
-cli_mongo_manager
+Mango is a Task Manager in Mongo DB using docopt
